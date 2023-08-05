@@ -1,6 +1,6 @@
 # Manhattan - Coffee House
 
-## Acesse: (  )
+## Acesse: ( https://wbrunotech.github.io/coffeeHouse/ )
 
 No desenvolvimento do projeto "Manhattan - Coffee House", criei uma experiência visual atraente e imersiva por meio do CSS.
 Utilizei técnicas de paralaxe em diferentes seções, proporcionando um movimento suave ao rolar a página. 
